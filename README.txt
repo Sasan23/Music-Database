@@ -10,6 +10,7 @@ The database itself was taken from the Java Programming Masterclass covering Jav
 
 Prerequisites and usage guide:
 Make sure to have at least JDK version 13 installed. 
+Install the JavaFX SDK. 
 Install the JAVA IDE of your choice. 
 Download the Zip, unzip it, and rename the folder to "musicDatabase". 
 Import/open the aforementioned folder. 
